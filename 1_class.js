@@ -1,5 +1,7 @@
 class Name{
   constructor{
+    function(){
+    }
     
   }
 }
