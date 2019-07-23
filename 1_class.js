@@ -1,6 +1,6 @@
 class Name{
   constructor{
-    function(){
+    function(var){
     }
     
   }
